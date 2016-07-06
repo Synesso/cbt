@@ -6,7 +6,7 @@ Welcome to Chris' Build Tool (CBT) for Scala
 Fun, fast, intuitive, composable and statically checked builds written in Scala.
 
 Currently CBT has been tested in OSX only. Adding support for Unix and Windows
-should not be hard. Please contribute back if you mange :).
+should not be hard. Please contribute back if you manage :).
 
 CBT supports the basic needs for Scala builds right now.
 Composing, compiling, running, testing, packaging, publishing.
